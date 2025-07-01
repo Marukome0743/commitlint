@@ -25,7 +25,7 @@ The file is expected
 - export a configuration object
 - adhere to the schema outlined below
 
-Configuration files are resolved using [cosmiconfig](https://github.com/cosmiconfig/cosmiconfig/tree/v8.2.0).
+Configuration files are resolved using [cosmiconfig](https://github.com/cosmiconfig/cosmiconfig/tree/v9.0.0).
 
 ## Config via `package.json`
 
