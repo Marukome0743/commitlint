@@ -3,7 +3,7 @@
 ```sh
 ❯ npx commitlint --help
 
-@commitlint/cli@19.5.0 - Lint your commit messages
+@commitlint/cli@19.8.1 - Lint your commit messages
 
 [input] reads from stdin if --edit, --env, --from and --to are omitted
 
