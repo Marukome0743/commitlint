@@ -15,6 +15,7 @@ export default {
 			"always",
 			100,
 		] as const,
+		"header-breaking": [RuleConfigSeverity.Error, "always"] as const,
 		"header-max-length": [RuleConfigSeverity.Error, "always", 100] as const,
 		"header-trim": [RuleConfigSeverity.Error, "always"] as const,
 		"subject-case": [
